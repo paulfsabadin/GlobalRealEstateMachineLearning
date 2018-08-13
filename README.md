@@ -1,2 +1,2 @@
 # GlobalRealEstateMachineLearning
-Place holder for global real estate machine learning (report only, no code)
+Global real estate machine learning report only (Code is proprietary)
